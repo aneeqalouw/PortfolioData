@@ -1,0 +1,136 @@
+{
+    "education": [
+      {
+        "id": 1,
+        "year": "2016 - 2020",
+        "description": "National Senior Certificate",
+        "place": "Rylands High School"
+      },
+      {
+        "id": 2,
+        "year": "2021",
+        "description": "SFX makeup course",
+        "place": "STADIO"
+      },
+      {
+        "id": 3,
+        "year": "2023 - 2024",
+        "description": "Web development course",
+        "place": "Life Choices Coding Academy"
+      }
+    ],
+    "skills": [
+      {
+        "id": 1,
+        "description":"Standard markup language for web pages - Trained at Life Choices Coding Academy",
+        "image": "https://i.ibb.co/35bb90Q/html-logo.png",
+        "title": "HTML"
+      },
+      {
+        "id": 2,
+        "description":"Style sheet language- Trained at Life Choices Coding Academy",
+        "image": "https://i.ibb.co/GH2LVm4/css-logo.png",
+        "title": "CSS"
+      },
+      {
+        "id": 3,
+        "description":"Open source CSS framework - Trained at Life Choices Coding Academy",
+        "image": "https://i.ibb.co/MPhpQhp/Bootstrap-logo-svg.png",
+        "title": "Bootstrap"
+      },
+      {
+        "id": 4,
+        "description":"Core web page programming language - Trained at Life Choices Coding Academy",
+        "image": "https://i.ibb.co/cgk9YMs/js-logo.png",
+        "title": "Javascript"
+      },
+      {
+        "id": 5,
+        "description":"Front end Javascript library for building UI - Trained at Life Choices Coding Academy",
+        "image": "https://i.ibb.co/HD91sgX/vue-logo.png",
+        "title": "Vue JS"
+      },
+      {
+        "id": 6,
+        "description":"Javascript runtime enviroment for server side scripting - Trained at Life Choices Coding Academy",
+        "image": "https://i.ibb.co/PDB600h/node-logo.png",
+        "title": "Node JS"
+      },
+      {
+        "id": 7,
+        "description":"Database management system - Trained at Life Choices Coding Academy",
+        "image": "https://i.ibb.co/PWnnVnr/mysql-logo.png",
+        "title": "MySql"
+      }
+    ],
+    "testimonials": [
+      {
+        "name": "Joel",
+        "surname": "Mukanya",
+        "quotes": "I do have the pleasure of being Aneeqa Louw's Lecturer, a creative, well-behaved, and dedicated individual who enjoys collaborating with her peers and excels in her projects. She has acquired a diverse set of skills, including HTML, CSS 3, and Bootstrap 5. I wholeheartedly recommend Aneeqa as a strong candidate and wish her the very best in her future endeavors.",
+        "profile": "https://i.ibb.co/yNKQcLJ/joel.png"
+      },
+      {
+        "name": "Eighton-Lee",
+        "surname": "Paulse",
+        "quotes": "Aneeqa is an exceptionally passionate individual with an extraordinary talent for design thinking. Her work has consistently left me in awe, and I am genuinely excited to witness her future endeavors. I wholeheartedly recommend her to any company in search of a highly skilled developer.",
+        "profile": "https://i.ibb.co/JvpngWb/eighton.png"
+      },
+      {
+        "name": "Jay-donn",
+        "surname": "Hendricks",
+        "quotes": "Aneeqa Louw is a great person with an amazing personality. She's kind, grounded and diligent. I would highly recommend her if you are looking for someone that works well with designing websites and helping it gain loads of attention from all crowds.",
+        "profile": "https://i.ibb.co/tPNns5h/1697092465133.jp"
+      },
+      {
+        "name": "Veronique",
+        "surname": "Nappie",
+        "quotes": "Aneeqa is a hardworking and a very intellectual individual. She grasps difficult concepts quickly and isn't afraid to take on challenges when they are presented to her. Having worked closely with her, I've witnessed unparalleled technical proficiency and a commitment to delivering high-quality solutions on time.",
+        "profile": "https://i.ibb.co/jgRmC9j/vero.jpg"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Abroad Academy",
+        "description": "My Capstone project - A course booking system",
+        "image": "https://i.ibb.co/YL5G1yf/abroad-academy.png",
+        "gitHub": "https://github.com/aneeqalouw/CAPSTONE.git",
+        "link": "https://capstone-ffbb4.web.app/"
+      },
+      {
+        "name": "Altitude Apparel",
+        "description":"An e-Commerce website selling aerial dance clothing",
+        "image": "https://i.ibb.co/5srKQLN/altitude-apparel.png",
+        "gitHub": "https://github.com/aneeqalouw/nodejs_EOMP.git",
+        "link": "https://nodejs-project-289b2.web.app/"
+      },
+      {
+        "name": "Kilau Lip Pigments",
+        "description": " An e-Commerce website built with HTML, CSS, bootstrap and Javascript",
+        "image": "https://i.postimg.cc/xdm9fqbk/kilau-lip-pigments.png",
+        "gitHub": "https://github.com/aneeqalouw/JS-EOMP.git",
+        "link": "https://kilaulipsecommerce.netlify.app/"
+      },
+      {
+        "name": "Palindrome Checker",
+        "description": "A web app that checks if a word is a palindrome or not",
+        "image": "https://i.postimg.cc/W1Fv8t89/palindrome-checker.png",
+        "gitHub": "https://github.com/aneeqalouw/palindrome.git",
+        "link": "https://bejewelled-puppy-37252e.netlify.app/"
+      },
+      {
+        "name": "BMI calculator",
+        "description": "A BMI calculating web app built with Javascript",
+        "image": "https://i.postimg.cc/KzncN4GX/bmi-calculator.png",
+        "gitHub": "https://github.com/aneeqalouw/bmiCalculator.git",
+        "link": "https://warm-mandazi-85f85b.netlify.app/"
+      },
+      {
+        "name": "Temperature Converter",
+        "description": "A temperature converter web app made with Javascript",
+        "image": "https://i.postimg.cc/1RkcXjTf/temp-converter.png",
+        "gitHub": "https://github.com/aneeqalouw/tempConverter.git",
+        "link": "https://fancy-squirrel-f5d4d4.netlify.app/"
+      }
+    ]
+  }
